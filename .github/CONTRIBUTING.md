@@ -1,3 +1,3 @@
-# Example Contributing Guidelines
+# Contributing Guidelines
 
-This is an example of GitHub's contributing guidelines file. Check out GitHub's [CONTRIBUTING.md help center article](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) for more information.
+If you want to contribute this project, feel free to create a pull request or issue, if you are interested in the project, contract [me](mailto:zhangjiahengpoping@gmail.com)
